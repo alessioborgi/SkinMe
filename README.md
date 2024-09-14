@@ -1,4 +1,4 @@
-# SkinMe_DL_Project
+# SkinMe
 
 **Copyright © 2023 Alessio Borgi, Federica Bruni, Emilia Russo**
 
