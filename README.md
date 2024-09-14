@@ -2,7 +2,7 @@
 
 **Copyright © 2023 Alessio Borgi, Federica Bruni, Emilia Russo**
 
-**PROJECT SCOPE**: Development of a Skin Cancer (Melanoma) Detection System using CNNs and LSTMs.
+**PROJECT SCOPE**: Development of a Skin Cancer (Melanoma) Detection System using CNNs and LSTMs. This project aims to create a deep learning-based application for skin disease detection and classification. This project utilizes advanced neural networks and computer vision techniques to analyze and identify various skin conditions from images. Designed to support healthcare and dermatology research, it aims to provide a reliable, AI-driven diagnostic tool.
 
 **PROJECT RESULTS**:
 - Dataset Balancing using Oversampling for contrasting the High-Imbalance of the Dataset.
